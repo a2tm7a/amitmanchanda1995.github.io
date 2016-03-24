@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![AmitImage](https://raw.githubusercontent.com/amitmanchanda1995/amitmanchanda1995.github.io/master/images/amit.jpg)
 
 Hi
 
