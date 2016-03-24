@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	HelloWorld, try
+title:	cout<<"HelloWorld";
 ---
 I always wanted to write a blog. Just kidding never thought of it. But due to the constant nagging of some seniors, I am writing it. Thank you guys for atleast getting it started. 
 
